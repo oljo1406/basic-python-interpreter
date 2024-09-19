@@ -1,0 +1,15 @@
+   1: # En hyggelig hilsen
+   2: navn='Ole-Sander'
+Scanner: name token on line 2: navn
+Scanner: = token on line 2
+Scanner: string literal token on line 2: "Ole-Sander"
+Scanner: NEWLINE token on line 2
+   3: print ('Hei,',navn)
+Scanner: name token on line 3: print
+Scanner: ( token on line 3
+Scanner: string literal token on line 3: "Hei,"
+Scanner: , token on line 3
+Scanner: name token on line 3: navn
+Scanner: ) token on line 3
+Scanner: NEWLINE token on line 3
+Scanner: E-o-f token
